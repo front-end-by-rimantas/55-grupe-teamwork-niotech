@@ -1,6 +1,6 @@
-export function hero() {
+export function blog() {
     
-    const HTML = 'HERO';
+    const HTML = 'BLOG';
 
     document
         .getElementById('app')

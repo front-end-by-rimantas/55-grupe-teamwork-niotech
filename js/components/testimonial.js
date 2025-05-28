@@ -1,6 +1,6 @@
-export function hero() {
+export function testimonial() {
     
-    const HTML = 'HERO';
+    const HTML = 'TESTIMONIAL';
 
     document
         .getElementById('app')

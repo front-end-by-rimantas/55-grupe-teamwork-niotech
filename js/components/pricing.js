@@ -1,6 +1,6 @@
-export function hero() {
+export function pricing() {
     
-    const HTML = 'HERO';
+    const HTML = 'PRICING';
 
     document
         .getElementById('app')

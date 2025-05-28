@@ -1,6 +1,6 @@
-export function hero() {
+export function footer() {
     
-    const HTML = 'HERO';
+    const HTML = 'FOOTER';
 
     document
         .getElementById('app')

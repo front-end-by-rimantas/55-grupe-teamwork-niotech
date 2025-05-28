@@ -1,5 +1,21 @@
 import { header } from "../components/header.js";
 import { hero } from "../components/hero.js";
+import { futures } from "../components/futures.js";
+import { futures2 } from "../components/futures2.js";
+import { whats } from "../components/whats.js";
+import { pricing } from "../components/pricing.js";
+import { works } from "../components/works.js";
+import { testimonial } from "../components/testimonial.js";
+import { blog } from "../components/blog.js";
+import { footer } from "../components/footer.js";
 
 header();
 hero();
+futures();
+futures2();
+whats();
+pricing();
+works();
+testimonial();
+blog();
+footer();

@@ -1,6 +1,6 @@
-export function hero() {
+export function whats() {
     
-    const HTML = 'HERO';
+    const HTML = 'WHATS';
 
     document
         .getElementById('app')

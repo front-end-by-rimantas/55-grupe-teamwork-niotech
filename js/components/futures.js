@@ -1,6 +1,6 @@
-export function hero() {
+export function futures() {
     
-    const HTML = 'HERO';
+    const HTML = 'FUTURES';
 
     document
         .getElementById('app')
