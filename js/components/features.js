@@ -13,7 +13,7 @@ export function features() {
             <img src="../img/round.png"><li>24/7 Support : We're here to help, anytime.<li>
             <img src="../img/round.png"><li>User -Friendly Interface : Easy to use, even for beginners.<li>
             <img src="../img/round.png"><li>Sealable for Teams : Designed to scale with your needs.<li>
-            <ul>
+            </ul>
             </div>
             </div>`
  
