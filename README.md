@@ -3,7 +3,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Niotech
+# Elektrikas
 
 _website design project_
 
@@ -13,19 +13,13 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/front-end-by-rimantas/55-grupe-teamwork-niotech
+Site published at: https://front-end-by-rimantas.github.io/55-grupe-teamwork
 
-Design: https://ex-coders.com/html/niotech/index3.html
+Design: https://html.fleexstudio.com/current/index.html
 
 ## 🎯 Project features/goals
 
--   Teamwork
--   Github pages
--   no responsive design
--   CSS file
--   FontAwesome icons
--   favicon
--   hover state
+-   perfection
 
 ## 🧰 Getting Started
 
@@ -49,7 +43,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    https://github.com/front-end-by-rimantas/55-grupe-teamwork-niotech
+    git clone https://github.com/front-end-by-rimantas/55-grupe-teamwork.git
     ```
 2. Install NPM packages
     ```sh
