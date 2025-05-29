@@ -1,5 +1,5 @@
-export function header() {
-
+export function pricing() {
+    
     const HTML = `
     <div id="app">
         <div class="container">
@@ -17,7 +17,6 @@ export function header() {
             </div>
         </div>
         `;
-
     document
         .getElementById('app')
         .insertAdjacentHTML('beforeend', HTML);

@@ -1,5 +1,5 @@
-export function header() {
-
+export function footer() {
+    
     const HTML = `
     <div id="app">
         <div class="container">

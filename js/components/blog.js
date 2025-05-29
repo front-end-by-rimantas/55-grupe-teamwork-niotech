@@ -1,5 +1,5 @@
-export function header() {
-
+export function blog() {
+    
     const HTML = `
     <div id="app">
         <div class="container">

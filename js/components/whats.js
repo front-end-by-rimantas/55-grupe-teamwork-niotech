@@ -1,5 +1,5 @@
-export function header() {
-
+export function whats() {
+    
     const HTML = `
     <div id="app">
         <div class="container">
