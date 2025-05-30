@@ -1,8 +1,14 @@
 export function header() {
-
-    const HTML = 'HEADER';
+    const HTML = `
+        <header class="container-header">
+            <div class="row">
+                <div class="col-12">
+                    HEADER CONTENT
+                </div>
+            </div>
+        </header>`;
 
     document
         .getElementById('app')
         .insertAdjacentHTML('beforeend', HTML);
-}
+};
