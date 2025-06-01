@@ -3,7 +3,8 @@ export function header() {
         <header class="container header">
             <div class="row">
                 <div class="col-12 header">
-                    <img src="./img/niotech logo.png">
+                    <img class="logo" src="./img/logo.png">
+                    <div class="header-middle">
                     <div>Home</div>
                     <div>About Us</div>
                     <div>Sevices</div>
@@ -11,7 +12,8 @@ export function header() {
                     <div>Pages</div>
                     <div>Blogs</div>
                     <div>Contact Us</div>
-                    <div class="button">Get Started</div>
+                    </div>
+                    <div class="btnheader">Get Started</div>
                     </div>
                 </div>
             </div>
