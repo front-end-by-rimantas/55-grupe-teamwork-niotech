@@ -19,9 +19,9 @@ export function features() {
         <a href="#" class="button">Learn more</a>
         </div>
         </div>
-</div>`
+</div>`;
  
 document
          .getElementById('app')
-         .insertAdjacentHTML('beforeend', HTML)
+         .insertAdjacentHTML('beforeend', HTML);
 }
