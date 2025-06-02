@@ -13,7 +13,8 @@ export function header() {
                     <div>Blogs</div>
                     <div>Contact Us</div>
                     </div>
-                    <div class="btnheader">Get Started</div>
+                    <i class="fa fa-search"></i>
+                    <div class="btnheader">Get Started  <i class="fa fa-long-arrow-right"></i></div>
                     </div>
                 </div>
             </div>

@@ -60,6 +60,12 @@ body {
   color: azure;
    border: 1px solid #ad3131;
 }
+.fa-search-2x {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5rem;  
+}
 
 .feat {
   font-size:38px;
@@ -91,4 +97,63 @@ body {
 }
 .inline {
   display: flex;
+}
+.change {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 0.8rem 1.5rem;
+  font-size: 18px;
+}
+.top2 {
+  margin-top: 20px;
+  width: 60rem;
+  color: #1b1b1b;
+  font-size: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card {
+  margin-top: 2rem;
+  width: 22 rem;
+  height: 19.3rem;
+  border-radius: 30px;
+  background-color: rgb(228, 230, 255);
+  transition: 0.8s;
+}
+.ctext {
+  color: rgb(46, 46, 46);
+  font-size: 16px;
+  font-family: Roboto;
+  padding: 2rem 2rem;
+  margin-top: 5.5rem;
+}
+.p1 {
+  padding: 5px;
+}
+.upper {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin-left: 6px;
+  font-size: 20px;
+  color: #1b1b1b;
+}
+.fa-pie-chart {
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+.card:hover {
+  background-color: rgb(116, 68, 253);
+  color: white;
+}
+.hi {
+  margin-top: 0;
+}
+.fa-rotate-left {
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+.fa-rebel {
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+.fa-fire {
+  color: rgb(241, 53, 53)
 }
