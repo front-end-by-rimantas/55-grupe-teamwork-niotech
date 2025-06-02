@@ -5,8 +5,8 @@ export function features() {
         <img class="col-12 col-lg-6" src="../img/stats2.png">
         <div class="col-12 col-lg-5">
         <div class="section-tag">Our Features</div>
-        <h1 style="font-size:38px;">We Provide The Best Quality</h1>
-        <p style="color:rgb(187, 187, 187)">There are many variations of passages of Lorem Ipsum available, 
+        <h1 class="feat">We Provide The Best Quality</h1>
+        <p class="text">There are many variations of passages of Lorem Ipsum available, 
         but the majority have suffered alteration in some form, by injected humour, 
         or randomised words which don't look even slightly</p>      
         <ul>
@@ -18,9 +18,38 @@ export function features() {
         </ul>
         <a href="#" class="button">Learn more</a>
         </div>
+     </div>
+</div>
+<div class="container trio">
+        <div class="row">
+        <div class="col-12 col-md-6 col-lg-4">
+        <div class="inline">
+        <img class="icons" src="../img/icon1.png">
+        <h class="up">Create</h>
         </div>
-</div>`;
- 
+        <i class="tunder">There are many vriations of passages f</i>
+        <i class="tunder">Lorem Ipsum but the majority have</i>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4">
+        <div class="inline">
+        <img class="icons" src="../img/icon2.png">
+        <h class="up">Customize</h>
+        </div>
+        <i class="tunder">There are many vriations of passages f</i>
+        <i class="tunder">Lorem Ipsum but the majority have</i>
+        </div> 
+        <div class="col-12 col-md-6 col-lg-4">
+        <div class="inline">
+        <img class="icons" src="../img/icon3.png">
+        <h class="up">Stay on top</h>
+        </div>
+        <i class="tunder">There are many vriations of passages f</i>
+        <i class="tunder">Lorem Ipsum but the majority have</i>
+        </div>                                            
+</div>
+</div>` 
+
+
 document
          .getElementById('app')
          .insertAdjacentHTML('beforeend', HTML);
