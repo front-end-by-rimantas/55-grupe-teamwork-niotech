@@ -1,0 +1,45 @@
+.container .header {
+  display: flex;
+  width: 100%;
+  height:8rem;
+  border-radius: 30px;
+  background-color: rgb(255, 255, 255);
+  justify-content: space-between;
+} 
+
+.header-middle {
+  margin-top: 3.3rem;
+  gap: 10px;
+  font-weight: bold;
+  display: flex;
+  color:rgb(97, 97, 97);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 0.8rem; 
+}
+
+.logo {
+  margin-left: 1rem;
+  margin-top: 2rem;
+  width: 13rem;
+  height: 4rem;
+}
+.btnheader {
+  margin-right: 70px;
+  margin-top: 35px;
+  height: 3.8rem;
+  width: 11rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  font-size: 16px;
+  color: white;
+  display: inline-block;
+  padding-top: 1.2rem;
+  border-radius: 40px;
+  background-color: rgb(116 68 253);
+  text-align: center;
+  transition: 0.6s;
+}
+
+.btnheader:hover {
+  background-color: #1b1b1b;
+}
