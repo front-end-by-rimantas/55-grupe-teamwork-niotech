@@ -3,9 +3,8 @@
 @import '../base/layout.css';
 
 /* vendors */
-@import '../base/vendors/font-awesome.min.css';
+@import '../css/vendors/font-awesome.min.css';
 /* components */
-@import '../components/features.css';
-@import '../components/features2.css';
 @import '../components/header.css';
+@import '../components/whatwedo.css';
 /* CUSTOM STYLE FOR THIS PAGE GOES BELOW THIS COMMENT */

@@ -1,4 +1,5 @@
 .container .header {
+  flex-wrap: wrap;
   display: flex;
   width: 100%;
   height:8rem;
@@ -38,8 +39,15 @@
   background-color: rgb(116 68 253);
   text-align: center;
   transition: 0.6s;
+  margin-left: 2rem;
 }
 
 .btnheader:hover {
   background-color: #1b1b1b;
+}
+
+@media (max-width: 1030px){
+  .header-middle {
+    display: none;
+  }
 }
