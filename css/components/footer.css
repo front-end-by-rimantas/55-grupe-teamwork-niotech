@@ -71,11 +71,6 @@
     margin-top: 2rem;
     display: flex;
 }
-.last {
-    display: flex;
-    gap: 15px;
-    justify-content: flex-end;
-}
 .endbuttons {
     margin-top: 3rem;
 }
@@ -105,8 +100,14 @@
 .thai {
     margin-top: 2rem;
 }
+.row .end { 
+    display: flex;
+    flex-wrap: wrap;
+}
 .last {
-    padding-left: 1.5rem;
+    display: flex;
+    gap: 15px;
+    justify-content: flex-end;
 }
 .last1:hover {
     color: rgb(117, 117, 209);

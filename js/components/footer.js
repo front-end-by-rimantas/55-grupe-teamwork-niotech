@@ -56,7 +56,7 @@ export function footer() {
                 <div class="col-12 col-md-6 col-lg-4">
                 <p>&copy; Copyright 2024 - Current. All Right Reserved</p>
                 </div>
-                <div class="last">
+                <div class="col-12 m-10 col-md-6 col-lg-4 last">
                 <i href="#" class="fa fa-facebook last1"></i> 
                 <i href="#" class="fa fa-twitter last2"></i> 
                 <i href="#" class="fa fa-linkedin last3"></i> 
