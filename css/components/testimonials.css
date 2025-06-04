@@ -1,0 +1,12 @@
+.bg-dark {
+    width: 100%;
+    height: 80vh;
+    background-color: rgb(226, 241, 244);
+}
+.feat {
+  font-size:38px;
+}
+.section-desc {
+    font-size: 18px;
+  color:rgb(187, 187, 187);
+}
