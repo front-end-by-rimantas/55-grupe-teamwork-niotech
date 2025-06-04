@@ -4,7 +4,6 @@ import { features } from "../components/features.js";
 import { features2 } from "../components/features2.js";
 import { whatwedo } from "../components/whatwedo.js";
 import { footer } from "../components/footer.js";
-import { backtotop } from "../components/backtotop.js";
 
 
 
@@ -13,5 +12,4 @@ hero();
 features();
 features2();
 whatwedo();
-footer();
-backtotop();
+footer();;
