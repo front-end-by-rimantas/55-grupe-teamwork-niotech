@@ -13,10 +13,9 @@ export function header() {
                     <div>Blogs</div>
                     <div>Contact Us</div>
                     </div>
-                    <a href="second" class="btnheader">Get Started  <i class="fa fa-long-arrow-right"></i></a>
-                    </div>
-                 <i class="far fa-search fa-2x</i>
-                 <div class="button right">Get Started</div>
+                    <a href="second" class="btnheader">Get Started<i class="fa fa-long-arrow-right"></i></a>                
+                    <a href="#" class="col-12 m-11 col-md-6 col-lg-4 buttonup"><i class="fa fa-chevron-up"></i></a>
+                </div>
                 </div>
             </div>
         </header>`;

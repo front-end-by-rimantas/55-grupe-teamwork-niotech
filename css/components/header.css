@@ -50,6 +50,19 @@
 .btnheader:hover {
   background-color: #1b1b1b;
 }
+.buttonup {
+  position: fixed;
+  top: 82vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  border-radius: 1rem;
+  width: 3rem;
+  height: 3rem;
+  background-color: rgb(132, 92, 168);
+  color: white;
+}
 
 @media (max-width: 1030px){
   .header-middle {

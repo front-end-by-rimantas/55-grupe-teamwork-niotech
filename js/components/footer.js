@@ -52,15 +52,15 @@ export function footer() {
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class="row end">
                 <div class="col-12 col-md-6 col-lg-4">
                 <p>&copy; Copyright 2024 - Current. All Right Reserved</p>
                 </div>
                 <div class="last">
-                <i class="fa fa-facebook fa-2x"></i> 
-                <i class="fa fa-twitter fa-2x"></i> 
-                <i class="fa fa-linkedin fa-2x"></i> 
-                <i class="fa fa-instagram fa-2x"></i>
+                <i href="#" class="fa fa-facebook last1"></i> 
+                <i href="#" class="fa fa-twitter last2"></i> 
+                <i href="#" class="fa fa-linkedin last3"></i> 
+                <i href="#" class="fa fa-instagram last4"></i>
                 </div> 
             </div>
         </footer>`;

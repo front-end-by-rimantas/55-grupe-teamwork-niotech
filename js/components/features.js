@@ -16,7 +16,10 @@ export function features() {
         <li>User -Friendly Interface : Easy to use, even for beginners.</li>
         <li>Sealable for Teams : Designed to scale with your needs.</li>
         </ul>
+        <div class="side">
         <a href="#" class="button">Learn more</a>
+        <a href="#" class="back"></a> 
+        </div>
         </div>
      </div>
 </div>
