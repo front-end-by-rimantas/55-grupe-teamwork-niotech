@@ -13,7 +13,7 @@ export function header() {
                     <div>Blogs</div>
                     <div>Contact Us</div>
                     </div>
-                    <a href="" class="btnheader">Get Started  <i class="fa fa-long-arrow-right"></i></a>
+                    <a href="second" class="btnheader">Get Started  <i class="fa fa-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
