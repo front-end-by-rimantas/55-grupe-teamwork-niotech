@@ -1,5 +1,4 @@
 export function header() {
-    
     const HTML = `
         <header class="container">
             <div class="row">
