@@ -38,6 +38,11 @@ body {
   font-weight: bold;
 }
 
+.top-line {
+  display: flex;
+  justify-content: space-between;
+}
+
 .button {
   display: inline-block;
   margin-left: 1rem;
