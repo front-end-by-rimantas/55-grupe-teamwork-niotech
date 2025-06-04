@@ -1,21 +1,15 @@
 import { header } from "../components/header.js";
-import { hero } from "../components/hero.js";
-import { futures } from "../components/futures.js";
-import { futures2 } from "../components/futures2.js";
-import { whats } from "../components/whats.js";
-import { pricing } from "../components/pricing.js";
-import { works } from "../components/works.js";
-import { testimonial } from "../components/testimonial.js";
-import { blog } from "../components/blog.js";
+import { features } from "../components/features.js";
+import { features2 } from "../components/features2.js";
+import { whatwedo } from "../components/whatwedo.js";
+import { testimonials } from "../components/testimonials.js";
 import { footer } from "../components/footer.js";
 
+
+
 header();
-hero();
-futures();
-futures2();
-whats();
-pricing();
-works();
-testimonial();
-blog();
+features();
+features2();
+whatwedo();
+testimonials();
 footer();
