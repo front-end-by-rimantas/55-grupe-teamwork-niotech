@@ -1,0 +1,142 @@
+.pcard {
+    height: 80vh;
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(235, 233, 233);
+}
+.pcard-bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.4rem;
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(85, 85, 85);
+    border-radius: 0 0 30px 30px;
+    transition: 0.5s;
+}
+.pcard-bottom:hover {
+    background-color: rgb(116, 116, 201);
+    cursor: pointer;
+}
+.cente {
+    display: flex;
+    justify-content: center;    
+}
+.plan {
+    margin-top: 1.5rem;
+    margin-left: 1.5rem;
+    font-family: roboto;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-start;
+    font-size: 18px;
+    color: rgb(109, 109, 194);
+}
+.price {
+    margin-top: 1.5rem;
+    margin-left: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(53, 53, 53);
+    font-size: 30px;
+    font-weight: bold;
+}
+.note {
+    margin-right: 1rem;
+    line-height: 2rem;
+    font-family: sans-serif;
+    margin-top: 1.5rem;
+    margin-left: 1.5rem;
+    color: rgb(153, 157, 187);
+    font-size: 18px;
+}
+
+.texts {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    gap: 15px
+}
+.sign {
+    padding: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(34, 34, 34);
+}
+.middle-tag {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.stulp {
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
+    gap: 1rem;
+    padding-left: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(61, 61, 61);
+    font-size: 16px;
+}
+.pabaiga {
+    width:100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    text-transform: capitalize;
+    color: rgb(171, 84, 253);
+    transition: 0.5s;
+}
+.pabaiga:hover {
+    color: white;
+}
+.toggle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height:5rem;
+}
+.back {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 190px;
+    height: 3rem;
+    border: 2px solid green;
+    border-radius: 20px;
+} 
+.month {
+    padding: 1rem 1rem;
+    font-size: 21px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(44, 44, 44);
+}
+.month:hover {
+    cursor: pointer;
+}
+.year {
+    padding: 1rem 1rem;
+    font-size: 21px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(44, 44, 44);
+}
+.year:hover {
+    cursor: pointer;
+}
+
+.bg {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 12px;
+    padding-right: 12px;
+    border: 1px solid black;
+    border-radius: 18px;
+    background-color: rgb(129, 129, 219);
+}
