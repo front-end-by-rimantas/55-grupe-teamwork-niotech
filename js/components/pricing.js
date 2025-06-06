@@ -7,7 +7,7 @@ export function pricing() {
         cardsHTML+= `
     <div class="col-12 col-md-6 col-lg-4 pcard">
         <h class="plan">${pcard.plan}</h>
-        <p class="price">${pcard.price}</p>
+        <p class="pricepl">${pcard.price}</p>
         <p class="note">${pcard.text}</p>
             <ul class="stulp">
                 <li>7 days free access</li>
@@ -47,4 +47,17 @@ export function pricing() {
 document
     .getElementById('app')
     .insertAdjacentHTML('beforeend', HTML);
+
+const yearCl=document.querySelector('.year');
+const monthCl=document.querySelector('.month');
+
+yearCl.addEventListener('click', ()=>{
+    yearCl.classList.add('bg');
+    monthCl.classList.remove('bg');
+});
+
+monthCl.addEventListener('click', ()=>{
+    yearCl.classList.remove('bg');
+    monthCl.classList.add('bg');
+});
 }
