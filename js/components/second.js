@@ -1,9 +1,9 @@
-export function header() {
+export function second() {
     const HTML = `
-        <header class="container">
+        <header class="container header">
             <div class="row">
                 <div class="col-12 header">
-                    <img class="logo" src="./img/logo.png">
+                    <img class="logo" src="../img/logo.png" alt="logtipas">
                     <div class="header-middle">
                     <div>Home</div>
                     <div>About Us</div>
@@ -13,9 +13,8 @@ export function header() {
                     <div>Blogs</div>
                     <div>Contact Us</div>
                     </div>
-                    <a href="second" class="btnheader">Get Started<i class="fa fa-long-arrow-right"></i></a>                
-                    <a href="#" class="col-12 m-11 col-md-6 col-lg-4 buttonup"><i class="fa fa-chevron-up"></i></a>
-                </div>
+                    <a href="../" class="btnheader">Return<i class="fa fa-undo"></i></a>
+                    </div>
                 </div>
             </div>
         </header>`;
