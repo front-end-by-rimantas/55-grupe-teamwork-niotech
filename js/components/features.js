@@ -43,7 +43,7 @@ export function features() {
         </div> 
         <div class="col-12 col-md-6 col-lg-4">
         <div class="inline">
-        <img class="icons" src="../img/icon3.png">
+        <img class="icons" src="./img/icon3.png">
         <h class="up">Say on top</h>
         </div>
         <i class="tunder">There are many vriations of passages f</i>
